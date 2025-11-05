@@ -8,7 +8,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/hasala-kavinda-chandrasekara-2488b6220/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://instagram.com/_hasala_kavinda_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-    <a href="hhttps://www.hackerrank.com/profile/c_m_hasalakavin1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/profile/c_m_hasalakavin1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 
 ---
