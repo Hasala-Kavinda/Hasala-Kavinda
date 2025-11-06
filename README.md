@@ -63,7 +63,7 @@
 ### 📊 GitHub Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nuwanj.github.io/NuwanJ/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://nuwanj.github.io/NuwanJ//dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hasala-Kavinda/Hasala-Kavinda/blob/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hasala-Kavinda/Hasala-Kavinda/blob/main/dist/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="github-snake.svg" />
 </picture>
